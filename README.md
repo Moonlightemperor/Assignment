@@ -1,4 +1,4 @@
-Deployed link to the page (https://golden-otter-3fc67b.netlify.app/)
+
 
 # WorkoutTracker
 
