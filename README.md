@@ -1,3 +1,5 @@
+Deployed link to the page (https://golden-otter-3fc67b.netlify.app/)
+
 # WorkoutTracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
